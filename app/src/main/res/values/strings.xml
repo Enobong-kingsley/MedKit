@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MedKit</string>
+    <string name="welcome_to_medkit">Welcome to MedKit</string>
+    <string name="user_name">User Name</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="re_type_password">Re-type Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_in">Sign In</string>
+</resources>
